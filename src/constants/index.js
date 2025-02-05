@@ -27,7 +27,7 @@ export const navLinks = [
       title: 'Fullstack Chat Application',
       desc: 'A Chat application built using MERN-stack(Mongodb, Express, React.js and node.js). A very user-friendly application with modern features, helping users to have a complete experience of communication.',
       href: 'https://chat-app-3-y3qm.onrender.com/',
-      texture: '/textures/project/chat.mov',
+      texture: '/textures/project/chat.mp4',
       spotlight: '/assets/spotlight1.png',
       tags: [
         {
@@ -56,7 +56,7 @@ export const navLinks = [
       title: 'MovieApp',
       desc: 'A complete react-app project, which helps users see a list of trending movies with reviews and ratings, making it easy for the user to narrow down the movie recommendations. The app also has a trending section, which shows the top-searched latest movies.',
       href: 'https://movieapp-silk-alpha.vercel.app/',
-      texture: '/textures/project/movie.mov',
+      texture: '/textures/project/movie.mp4',
       spotlight: '/assets/spotlight2.png',
       tags: [
         {
@@ -75,7 +75,7 @@ export const navLinks = [
       title: 'thrustMIT-subscale website',
       desc: 'Created a captivating space-themed website for the thrustMIT subscale. Crafted engaging sections such as homepage, about us, and team information section, to attract and inform visitors. Implemented interactive elements like mouse-effects to enhance user engagement.Ensured seamless navigation and intuitive user experience across different sections of the website.',
       href: 'https://subscale.vercel.app/',
-      texture: '/textures/project/subscale.mov',
+      texture: '/textures/project/subscale.mp4',
       spotlight: '/assets/spotlight3.png',
       tags: [
         {
@@ -94,7 +94,7 @@ export const navLinks = [
       title: 'Apple clone Website',
       desc: "Developed an advanced clone of the iPhone 15 Pro official website utilizing React, Three.js, and GSAP. Created an interactive 3D model with smooth animations and responsive design. Integrated videos showcasing the phone’s features for a dynamic user experience. Optimized for performance and responsiveness across devices",
       href: 'https://apple-clone-chi-bice.vercel.app/',
-      texture: '/textures/project/apple.mov',
+      texture: '/textures/project/apple.mp4',
       spotlight: '/assets/spotlight4.png',
       tags: [
         {
